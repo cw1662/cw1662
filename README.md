@@ -2,6 +2,7 @@
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+![header](https://capsule-render.vercel.app/api?color=auto)
 <!--
 **cw1662/cw1662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
